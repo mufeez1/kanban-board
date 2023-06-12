@@ -22,9 +22,6 @@
     2. Forward button - This moves the task to the next stage in sequence, if any. This button is disabled if the task is in the last stage.
     3. Delete button - This removes the task from the board.
 
-- Each task has 2 properties -
-    1. name - name of task. This is the unique identification for every task. [STRING] 
-    2. stage - stage of task [NUMBER] (0 represents Backlog stage, 1 represents To Do stage, 2 represents Ongoing stage, 3 represents Done stage).
 
 
 ## Project Specifications
